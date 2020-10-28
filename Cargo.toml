@@ -1,0 +1,9 @@
+[package]
+name = "fastrand_ext"
+version = "0.1.0"
+authors = ["museun <museun@outlook.com>"]
+edition = "2018"
+license = "MIT"
+
+[dependencies]
+fastrand = "1.4.0"
